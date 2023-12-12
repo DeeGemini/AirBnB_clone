@@ -32,4 +32,3 @@ class AirbnbConsole:
 if __name__ == "__main__":
     console = AirbnbConsole()
     console.run_console()
-
